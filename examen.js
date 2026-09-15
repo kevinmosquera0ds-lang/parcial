@@ -1,7 +1,7 @@
 //DATOS PERSONALES 
-const nombre = "Juan";
-const apellido = "Pérez";
-const edad = 30;
+const nombre = "kevin";
+const apellido = "mosquera ";
+const edad = 26;
 const correo = "kevin.mosquera.0ds@utap.edu.co"
 
 //DATOS DE ACADEMICOS
